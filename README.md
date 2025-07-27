@@ -1,3 +1,7 @@
+<img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/6314b4df-088b-40a7-b156-7449937ff51d" />
+
+
+
 ### <div align="center">I'm André, right now I'm learning python 👨‍💻 I started in June 2025 🚀</div>  
   
 
